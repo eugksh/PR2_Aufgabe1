@@ -1,6 +1,5 @@
 package Gefaess;
 
-public class Topf {
-    int a;
-    int b;
+public class Topf extends Kochgeschirr {
+
 }
